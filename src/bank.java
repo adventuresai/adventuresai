@@ -88,6 +88,7 @@ public class bank {
     public static void mort(){
         System.out.println("Mortgage loans issued based on your salary");
         System.out.println("The rate of interest in Mortgage loan is 7% to 12%");
+        System.out.println();
         System.out.println("Press 1 to go back to the application.");
         back();
 
